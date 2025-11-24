@@ -45,22 +45,15 @@ A entrega reforça o posicionamento digital da marca, trazendo:
 
 ---
 
-## 📷 Demonstração
-*(Adicione aqui prints do site ou GIFs se quiser)*  
-Exemplo:  
-![Preview do Site](./assets/preview.png)
-
----
-
 ## 🔗 Acesse o Projeto Online
-Github Pages: ***[adicione o link do site publicado aqui]***
+Github Pages: ***[https://lnkd.in/emBTsESS]***
 
 ---
 
 ## 👨‍💻 Desenvolvedor
 **Seu Nome** – Desenvolvedor Front-End  
-📧 Email: *seuemail@example.com*  
-🔗 LinkedIn: *coloque seu link aqui*
+📧 Email: *lucassilvamagalhaes352@gmail.com*  
+🔗 LinkedIn: *https://www.linkedin.com/in/lucas-magalh%C3%A3es-dev-frontend3b39036b/*
 
 ---
 
